@@ -1,4 +1,4 @@
-# TMR
+# RMT CODE
 here is a help for you....
 
 #Q1 Fibonacci Sequance 
